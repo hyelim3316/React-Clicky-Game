@@ -1,0 +1,13 @@
+
+
+img {
+  height: 150px;
+  width: 150px;
+}
+
+.card {
+  width: 160px;
+  align-items: center;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
