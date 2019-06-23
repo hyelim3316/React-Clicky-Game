@@ -4,8 +4,8 @@ import "./style.css";
 function Card(props) {
   return(
     <div className="col-3">
-    <div className="card">
-      <img alt={props.id} src={props.image} onClick={()=>props.clickChar(props.id)} />
+    <div className="card" onClick={()=>props.clickChar(props.id)} >
+      <img alt={props.id} src={props.image} />
     </div>
     </div>
   )

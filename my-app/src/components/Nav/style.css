@@ -1,5 +1,12 @@
 .nav {
   height: 50px;
+  font-size: 30px;
+  padding: 5px 0;
+  background: lightcyan;
+}
+
+.guess {
+  background: lightsalmon;
   font-size: 25px;
-  padding: 10px 0;
+  margin-bottom: 5px;
 }
