@@ -2,11 +2,13 @@
   height: 50px;
   font-size: 30px;
   padding: 5px 0;
-  background: lightcyan;
+  background:	#ee1515;
+  font-family: 'Bubblegum Sans';
+  font-size: 27px;
 }
 
 .guess {
-  background: lightsalmon;
+  background:#f0f0f0;
   font-size: 25px;
   margin-bottom: 5px;
 }

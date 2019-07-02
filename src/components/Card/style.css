@@ -1,5 +1,5 @@
 .col-3 {
-  background-image: url("images.png");
+  /* background-image: url("images.png"); */
   background-size: cover; 
 }
 
@@ -12,5 +12,5 @@ img {
   width: 160px;
   align-items: center;
   margin-bottom: 20px;
-  margin-left: 50px;
+  margin-left: 80px;
 }
